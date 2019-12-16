@@ -1,3 +1,4 @@
+#Variables
 x = 15
 price = 9.99
 

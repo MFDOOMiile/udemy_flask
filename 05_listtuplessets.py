@@ -23,3 +23,5 @@ print(l)
 
 
 #adding to sets - it's add, and not append, when working with sets. Append means "add at the end", but sets don't have an "end" since they don't have any order
+s.add("Rafiki")
+print(s)
